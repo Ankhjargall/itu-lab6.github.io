@@ -102,3 +102,6 @@ h5{
 	text-shadow: 0 0 15px #000;
 	font-size: 8px;
 }
+@media (max-width: 480px),
+		(max-device-width:480px),
+		(max-width: 480px)
